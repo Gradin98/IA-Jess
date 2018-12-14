@@ -1,0 +1,21 @@
+(deftemplate persoana
+    (multislot nume)
+    (multislot mama)
+    (multislot tata)
+    (multislot partener)
+)
+
+(assert (persoana(nume Ion Popescu)(mama nil)(tata Ionel Andreescu)(partener Maria Popescu)))
+(assert (persoana(nume Ionel Andreescu)(mama nil)(tata nil)(partener nil)))
+(assert (persoana(nume Maria Popovici)(mama nil)(tata nil)(partener Ion Popescu)))
+(assert (persoana(nume Elena Popescu)(mama nil)(tata nil)(partener Cristian Popescu)))
+(assert (persoana(nume Cristian Popescu)(mama Maria Popovici)(tata Ion Popescu)(partener Elena Popescu)))
+(assert (persoana(nume Adrian Popescu)(mama Maria Popovici)(tata Ion Popescu)(partener Cristina Popescu)))
+(assert (persoana(nume Cristina Popescu)(mama nil)(tata nil)(partener Adrian Popescu)))
+(assert (persoana(nume Tudor Popescu)(mama Cristina Popescu)(tata Adrian Popescu)(partener nil)))
+(assert (persoana(nume Ciprian Popescu)(mama Maria Popescu)(tata Ion Popescu)(partener Adriana Popescu)))
+(assert (persoana(nume Adriana Popescu)(mama nil)(tata nil)(partener Ciprian Popescu)))
+(assert (persoana(nume Maria Andreescu)(mama Maria Popovici)(tata Ion Popescu)(partener Petre Andreescu)))
+(assert (persoana(nume Petre Andreescu)(mama nil)(tata nil)(partener Maria Andreescu)))
+(assert (persoana(nume Ionel Avram)(mama Maria Andreescu)(tata Petre Andreescu)(partener nil)))
+

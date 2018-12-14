@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="gov.sandia.jess.debug.launching.Main">
+<stringAttribute key="gov.sandia.jess.editor.launching.jessClassName" value="jess.Main"/>
+<stringAttribute key="gov.sandia.jess.editor.launching.jessFileName" value="test.cpl"/>
+<stringAttribute key="org.eclipse.jdt.launching.JRE_CONTAINER" value="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_191"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="test"/>
+</launchConfiguration>

@@ -1,0 +1,271 @@
+!SESSION 2018-12-10 13:05:05.073 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+This is a continuation of log file C:\Users\kocsi\workspace\.metadata\.bak_0.log
+Created Time: 2018-12-10 14:01:41.515
+
+!ENTRY gov.sandia.jess.debug 4 0 2018-12-10 14:01:41.524
+!MESSAGE Connection reset
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read0(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at gov.sandia.jess.debug.model.JessDebugEventResponder.run(JessDebugEventResponder.java:34)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY gov.sandia.jess.debug 4 0 2018-12-10 14:01:41.537
+!MESSAGE Connection reset
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read0(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at gov.sandia.jess.debug.model.JessDebugEventResponder.run(JessDebugEventResponder.java:34)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY gov.sandia.jess.debug 4 0 2018-12-10 14:01:41.547
+!MESSAGE Connection reset
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read0(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at gov.sandia.jess.debug.model.JessDebugEventResponder.run(JessDebugEventResponder.java:34)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY gov.sandia.jess.debug 4 0 2018-12-10 14:01:41.557
+!MESSAGE Connection reset
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read0(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at gov.sandia.jess.debug.model.JessDebugEventResponder.run(JessDebugEventResponder.java:34)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY gov.sandia.jess.debug 4 0 2018-12-10 14:01:41.568
+!MESSAGE Connection reset
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read0(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at gov.sandia.jess.debug.model.JessDebugEventResponder.run(JessDebugEventResponder.java:34)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY gov.sandia.jess.debug 4 0 2018-12-10 14:01:41.580
+!MESSAGE Connection reset
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read0(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at gov.sandia.jess.debug.model.JessDebugEventResponder.run(JessDebugEventResponder.java:34)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY gov.sandia.jess.debug 4 0 2018-12-10 14:01:41.594
+!MESSAGE Connection reset
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read0(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at gov.sandia.jess.debug.model.JessDebugEventResponder.run(JessDebugEventResponder.java:34)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY gov.sandia.jess.debug 4 0 2018-12-10 14:01:41.605
+!MESSAGE Connection reset
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read0(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at gov.sandia.jess.debug.model.JessDebugEventResponder.run(JessDebugEventResponder.java:34)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY gov.sandia.jess.debug 4 0 2018-12-10 14:01:41.619
+!MESSAGE Connection reset
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read0(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at gov.sandia.jess.debug.model.JessDebugEventResponder.run(JessDebugEventResponder.java:34)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY gov.sandia.jess.debug 4 0 2018-12-10 14:32:15.157
+!MESSAGE Unrecognized Windows Sockets error: 0: recv failed
+!STACK 0
+java.net.SocketException: Unrecognized Windows Sockets error: 0: recv failed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read0(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at gov.sandia.jess.debug.model.JessDebugEventResponder.run(JessDebugEventResponder.java:34)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY gov.sandia.jess.debug 4 0 2018-12-10 14:33:30.211
+!MESSAGE Unrecognized Windows Sockets error: 0: recv failed
+!STACK 0
+java.net.SocketException: Unrecognized Windows Sockets error: 0: recv failed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read0(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at gov.sandia.jess.debug.model.JessDebugEventResponder.run(JessDebugEventResponder.java:34)
+	at java.lang.Thread.run(Unknown Source)
+!SESSION 2018-12-14 21:22:13.777 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY gov.sandia.jess.debug 4 0 2018-12-14 21:38:32.757
+!MESSAGE Connection reset
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read0(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at gov.sandia.jess.debug.model.JessDebugEventResponder.run(JessDebugEventResponder.java:34)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY gov.sandia.jess.debug 4 0 2018-12-14 21:39:00.490
+!MESSAGE Connection reset
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read0(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at gov.sandia.jess.debug.model.JessDebugEventResponder.run(JessDebugEventResponder.java:34)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY gov.sandia.jess.debug 4 0 2018-12-14 21:39:00.498
+!MESSAGE Connection reset
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read0(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at gov.sandia.jess.debug.model.JessDebugEventResponder.run(JessDebugEventResponder.java:34)
+	at java.lang.Thread.run(Unknown Source)
